@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amlel-el-mahrouss" alt="amlel-el-mahrouss" /></a> </p>
 
-- 🔭 I’m currently working on [ZKA Microkernel](https://github.com/amlel-el-mahrouss/zka)
+- 🔭 I’m currently working on **SECRET**
 
 - 🌱 I’m currently learning **Video Codecs**
 
