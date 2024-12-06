@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amlel-el-mahrouss" alt="amlel-el-mahrouss" /></a> </p>
 
-- 🔭 I’m currently working on **SERCET**
+- 🔭 I’m currently working on **ZKA MicroKernel**
 
-- 🌱 I’m currently learning **SERCET**
+- 🌱 I’m currently learning **Video Codecs**
 
 - 📫 How to reach me **amlalelmahrouss@icloud.com**
 
