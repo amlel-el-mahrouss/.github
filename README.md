@@ -1,9 +1,9 @@
 <h1 align="center">Amlal EL Mahrouss</h1>
 <h3 align="center">C/C++ Developper</h3>
 
-- 🔭 I’m currently working on **ZKA**
+- 🔭 I’m currently working on **AV Codec**
 
-- 🌱 I’m currently learning **Video Codecs**
+- 🌱 I’m currently learning **AV Codec**
 
 - 📫 How to reach me **amlalelmahrouss@icloud.com**
 
